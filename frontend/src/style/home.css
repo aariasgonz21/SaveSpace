@@ -1,0 +1,21 @@
+.icons {
+    width: 150px;
+    text-align: center;
+}
+
+.col-md-4 {
+    text-align: center;
+}
+
+.col-md-4 > h2 {
+    margin: 12px;
+}
+
+.jumbotron {
+    margin: 0 -30px;
+    height: 500px;
+}
+
+.form-control {
+    width: 500px;
+}
